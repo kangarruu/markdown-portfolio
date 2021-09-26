@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Languages:__ Java, Kotlin <br />
+__Skills:__ Jetpack (ViewModel, Data Binding, Room, Work Manager), Sqlite, Room, Firebase, GPS, Google map, Location Service, Material Design <br />
+__Libaries:__ Volley, Retrofit, Gson, Piccaso, Glide
