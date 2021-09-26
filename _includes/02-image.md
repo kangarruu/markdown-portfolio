@@ -1,1 +1,2 @@
-<img src="https://user-images.githubusercontent.com/36139667/134817304-99b43cf7-e552-439c-9f58-f799c71141ae.jpg" alt= "profile picture" width="225" height="450" />
+
+![profile_picture](https://user-images.githubusercontent.com/36139667/134817618-656d9571-faab-4ffc-b7ec-54e7039ea483.jpg)
